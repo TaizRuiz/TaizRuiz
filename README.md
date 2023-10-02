@@ -1,16 +1,18 @@
-## Portfolio Dafne Ruiz
+## Portfolio Dafne Ruiz :relaxed:
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* :raising_hand: [Información personal](#información-personal) 
+* :computer: [Proyectos](#proyectos)  
+* :gem: [Intereses](#intereses) 
 ## Información personal
 * Nombre: Dafne Ruiz
 * Ocupación: Estudiante
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Lugar de residencia: Ecuador 
+* Sitio web: unknown
 ## Proyectos
-* [Lista de tus proyectos]
+* Emoji Maker App [https://pages.github.com/](https://github.com/TaizRuiz/EmojiMaker).
+* Trie Tree Dictionary  [https://pages.github.com/](https://github.com/TaizRuiz/TrieTreeProject). 
 ## Intereses
-* [Lista de tus intereses]
+* Investigar cursos en Internet
+* Interesada en aprender habilidades como: React, Angular, React Native, Node JS, Django, etc 
