@@ -1,4 +1,4 @@
-## Portfolio Dafne Ruiz :relaxed:
+## Portafolio :relaxed:
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
