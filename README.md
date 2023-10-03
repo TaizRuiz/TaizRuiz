@@ -1,10 +1,10 @@
-## Portafolio :relaxed:
+## Portafolio ☺️
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-* :raising_hand: [Información personal](#información-personal) 
-* :computer: [Proyectos](#proyectos)  
-* :gem: [Intereses](#intereses) 
+* 🙋‍♀️ [Información personal](#información-personal) 
+* 💻 [Proyectos](#proyectos)  
+* 💎 [Intereses](#intereses) 
 ## Información personal
 * Nombre: Dafne Ruiz
 * Ocupación: Estudiante
