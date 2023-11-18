@@ -12,7 +12,10 @@ proyectos y mis intereses.
 * Sitio web: unknown
 ## Proyectos
 * Emoji Maker App [https://pages.github.com/](https://github.com/TaizRuiz/EmojiMaker).
-* Trie Tree Dictionary  [https://pages.github.com/](https://github.com/TaizRuiz/TrieTreeProject). 
+* Trie Tree Dictionary  [https://pages.github.com/](https://github.com/TaizRuiz/TrieTreeProject).
+* Curriculum Vitae  [https://pages.github.com/](https://github.com/TaizRuiz/curriculum).
+* Vet's Landing page  [https://pages.github.com/](https://github.com/TaizRuiz/landing).
+* weather dashboard [https://pages.github.com/](https://github.com/TaizRuiz/dashboard_template).
 ## Intereses
-* Investigar cursos en Internet
+* Academicamente me interesa el trabajo de investigacion 
 * Interesada en aprender habilidades como: React, Angular, React Native, Node JS, Django, etc 
